@@ -16,4 +16,4 @@ Make sure you have Flutter installed on your machine. If you don’t have it ins
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flutter-pagination-simulation.git
+   git clone https://github.com/Begato22/pagination.git
