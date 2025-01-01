@@ -4,7 +4,6 @@ This project demonstrates how to simulate pagination in Flutter. It uses a simpl
 
 ## Features
 - Displays data in chunks (pages).
-- Provides 'Next' and 'Previous' buttons for navigation.
 - Simulates real-world pagination for larger datasets.
 - Customizable page size for different data sets.
 
